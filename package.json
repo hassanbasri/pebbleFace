@@ -1,0 +1,26 @@
+{
+    "author": "muhammad.hassan@aalto.fi",
+    "dependencies": {},
+    "keywords": [],
+    "name": "testing",
+    "pebble": {
+        "displayName": "testing",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "7100053a-1916-4e47-bac4-68a4ed89523d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
